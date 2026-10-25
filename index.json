@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "author": "Runixe786",
+    "presets": [
+        {
+            "id": "lavender-porche",
+            "name": "lavender porche",
+            "description": "a  minimal CachyOS setup featuring Material You Expressive design, lavender aesthetics, a Porsche GT3 RS wallpaper and a sleek app dock.",
+            "version": "1.0.0",
+            "configVersion": 31,
+            "path": "presets/lavender-porche",
+            "wallpaper": "presets/lavender-porche/wallpaper.png",
+            "banner": "presets/lavender-porche/banner.png",
+            "screenshots": [
+                "presets/lavender-porche/screenshots/1-dd1b7426.png",
+                "presets/lavender-porche/screenshots/2-2195afca.png",
+                "presets/lavender-porche/screenshots/3-d9debcf7.png"
+            ]
+        }
+    ]
+}

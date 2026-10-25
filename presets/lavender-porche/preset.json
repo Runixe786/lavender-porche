@@ -1,0 +1,23 @@
+{
+    "schema": 1,
+    "name": "lavender porche",
+    "author": "Runixe786",
+    "description": "a  minimal CachyOS setup featuring Material You Expressive design, lavender aesthetics, a Porsche GT3 RS wallpaper and a sleek app dock.",
+    "version": "1.0.0",
+    "configVersion": 31,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-dd1b7426.png",
+        "screenshots/2-2195afca.png",
+        "screenshots/3-d9debcf7.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-25",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.png",
+    "banner": "banner.png"
+}
