@@ -4,7 +4,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 
 ## Available Presets
 
-- **lavender porche** (`lavender-porche`, v1.0.1) — a  minimal CachyOS setup featuring Material You Expressive design, lavender aesthetics, a Porsche GT3 RS wallpaper and a sleek app dock.
+- **lavender porche** (`lavender-porche`, v1.0.2) — a  minimal CachyOS setup featuring Material You Expressive design, lavender aesthetics, a Porsche GT3 RS wallpaper and a sleek app dock.
 
 ## How to Install
 
